@@ -88,7 +88,7 @@ int main() {
 
     // Comparação de Cartas:
 
-    printf("O atributo escolhido é: Densidade Populacional.\n");
+    printf("Comparação de Cartas (Atributo: Densidade Populacional)\n");
 
     printf("\n");
 
