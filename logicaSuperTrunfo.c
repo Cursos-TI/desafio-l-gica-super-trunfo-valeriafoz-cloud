@@ -64,7 +64,7 @@ int main() {
     printf("\n");
 
     // Comparação de Cartas:
-    printf("**Escolha o atributo:**\n");
+    printf("**Escolha o atributo de comparação:**\n");
     printf("1. População do País\n");
     printf("2. Área do País\n");
     printf("3. PIB do País\n");
